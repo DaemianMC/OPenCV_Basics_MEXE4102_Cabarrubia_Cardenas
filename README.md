@@ -1,6 +1,7 @@
 # OPenCV_Basics_MEXE4102_Cabarrubia_Cardenas
 
 # Sorting Objects by Colors
+#### The chosen [dataset](https://github.com/DaemianMC/OPenCV_Basics_MEXE4102_Cabarrubia_Cardenas/tree/main/Dataset) contains images of cubes in a conveyor belt.
 
 ## Introduction
 This project demonstrates a method to sort objects by color using the OpenCV library. The program processes images, isolates specific colors, and highlights them for analysis or further processing.
