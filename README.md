@@ -9,7 +9,9 @@ This project focuses on Isolating Objects by Color, particularly by applying the
 ---
 
 ## Abstract
-The project explores a step-by-step procedure for programming a system to sort objects based on their color. It utilizes the HSV (Hue, Saturation, Value) color space, which simplifies the detection and isolation of specific colors in images compared to the RGB model. The results are displayed visually, showcasing the original image, the mask for the target color, and the final processed result.
+- The project aims to isolate and display objects based on their color by applying HSV thresholding, with a specific focus on detecting and isolating yellow-colored cubes on a conveyor belt. To achieve this, the memebers selects a dataset containing images with distinguishable yellow-colored objects and sets up the environment using Jupyter Notebook in Google Colab or a preferred IDE. Essential libraries such as OpenCV, NumPy, and Matplotlib are employed, and supporting files are sourced from a GitHub repository. Preprocessing steps, including resizing and Gaussian blurring, ensure consistency and noise reduction across images. Images are converted from RGB to HSV color space to facilitate precise color segmentation. Using a defined HSV range for yellow, a mask is created to isolate target regions, and morphological operations are applied to refine the results. Finally, the pipeline visualizes each step, from the original image to the final processed output, for transparency and analysis. The expected outcome is an accurate and robust detection system that isolates yellow-colored cubes, producing high-quality visual outputs even under variable lighting conditions. This approach demonstrates the effectiveness of HSV thresholding for color-based object detection, providing clear insights into its potential for industrial automation and computer vision applications.
+
+
 
 ---
 
@@ -20,7 +22,7 @@ Follow the step-by-step procedure below to implement the project:
    - Select a dataset suitable for the OpenCV task (e.g., images with distinguishable color objects).
 
 - **Set Up the Environment**:
-   - Open Google Colab or your preferred Python IDE.
+   - Open Google Colab or Jupyter Notebook.
 
 - **Import Required Libraries**:
    - Import essential libraries: `cv2`, `os`, `numpy`, and `matplotlib.pyplot`.
