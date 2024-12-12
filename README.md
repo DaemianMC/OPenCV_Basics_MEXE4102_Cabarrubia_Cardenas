@@ -79,6 +79,7 @@ Follow the step-by-step procedure below to implement the project:
 
 ## Additional Materials
 - The code is provided in this repository with the file name OPenCV_Basics_MEXE4102_Cabarrubia_Cardenas - 8.ipynb
+- The recorded demonstration of the program is in this link: https://drive.google.com/file/d/1kEZ54xcnDyYn2CnZ0eXrDpo7Q17oBnbg/view?usp=drive_link
 - The following images are the results of this project
 
 ![image](https://github.com/user-attachments/assets/86a120de-e5ac-49b2-b8fd-2ad82bfd1eaf)
