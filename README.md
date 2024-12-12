@@ -76,3 +76,30 @@ Follow the step-by-step procedure below to implement the project:
 - Overall, this code is a solid foundation for building more advanced color detection systems and can be easily adapted to other use cases with minor adjustments.
 
 ---
+
+## Additional Materials
+- The code is provided in this repository with the file name OPenCV_Basics_MEXE4102_Cabarrubia_Cardenas - 8.ipynb
+- The following images are the results of this project
+
+![image](https://github.com/user-attachments/assets/86a120de-e5ac-49b2-b8fd-2ad82bfd1eaf)
+![image](https://github.com/user-attachments/assets/e8647f46-22ba-484c-991f-0485e16a514a)
+![image](https://github.com/user-attachments/assets/344c8af5-2082-439c-af43-293952c90a76)
+![image](https://github.com/user-attachments/assets/ef15ca61-075e-4f43-b572-c2c34d4f9f40)
+![image](https://github.com/user-attachments/assets/4edaa440-4105-42bd-aa2d-6608f6a35e4e)
+![image](https://github.com/user-attachments/assets/558b8d1a-1060-4fb5-8062-43426a2521e3)
+![image](https://github.com/user-attachments/assets/faee282c-4950-4fbb-b17a-ddb01633b37c)
+![image](https://github.com/user-attachments/assets/902f8f10-da4f-47e6-ba9a-c20004662e4b)
+![image](https://github.com/user-attachments/assets/e144e98e-2b4e-41c7-8bdc-b90b75b93244)
+![image](https://github.com/user-attachments/assets/9ea1cdd7-d906-402e-b17e-4dc60b059fe0)
+![image](https://github.com/user-attachments/assets/99025dff-8e21-44fc-aa28-c81acb29c442)
+![image](https://github.com/user-attachments/assets/004f9284-b478-4407-8c99-dc3c83b9e65e)
+![image](https://github.com/user-attachments/assets/3d27d88c-8bd5-4373-9bf8-75b5ebed349f)
+![image](https://github.com/user-attachments/assets/e5b5f4cf-c56f-48d7-a699-0c606cce2aaf)
+![image](https://github.com/user-attachments/assets/27c67f73-a9ab-4828-85a9-856a076eac71)
+
+---
+
+## Members
+- Cabarrubia, Yuel Jeiro Daemian
+- Cardenas, Sofia Bianca
+---
