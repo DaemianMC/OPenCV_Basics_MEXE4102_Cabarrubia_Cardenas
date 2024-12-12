@@ -4,7 +4,7 @@
 #### The chosen [dataset](https://github.com/DaemianMC/OPenCV_Basics_MEXE4102_Cabarrubia_Cardenas/tree/main/Dataset) contains images of cubes in a conveyor belt.
 
 ## Introduction
-This project demonstrates a method to sort objects by color using the OpenCV library. The program processes images, isolates specific colors, and highlights them for analysis or further processing.
+This project focuses on Isolating Objects by Color, particularly by applying the HSV thresholding code to extract and display objects of specific colors from an image. With that, the members have narrowed down the problem into Detecting/Isolating all Yellow-Colored Cubes on Conveyer Belt. This topic is highly relevant in computer vision applications such as automated sorting systems, quality control in manufacturing, and robotic vision. It indicates the practical application of color-based object detection for improvement in the efficiency and accuracy of industrial processes. The yellow cubes identified by this project show how computer vision can be used to automate activities that have been time-consuming and error-prone when done manually.
 
 ---
 
